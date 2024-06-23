@@ -1,0 +1,10 @@
+/* src/components/TodoApp.css */
+.todo-app {
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+}

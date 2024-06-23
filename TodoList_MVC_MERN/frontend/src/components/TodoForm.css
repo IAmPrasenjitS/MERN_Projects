@@ -1,0 +1,28 @@
+/* src/components/TodoForm.css */
+.todo-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.todo-form input,
+.todo-form textarea {
+    width: 300px;
+    padding: 10px;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+.todo-form button {
+    padding: 10px;
+    font-size: 1em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.todo-form button:hover {
+    background-color: #0056b3;
+}
